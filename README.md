@@ -1,2 +1,3 @@
 # xengine
-generate and track perfomance
+generate and track perfomance.
+linear and finite options exist.
